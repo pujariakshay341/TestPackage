@@ -4,7 +4,7 @@ public class Test1
 {
 	public static void main(String[] args) 
 	{
-		String name="HeXaEAre1";
+		String name="HeXaEAreTesTiNg1";
 		
 		StringBuilder sb= new StringBuilder();
 		
