@@ -4,7 +4,7 @@ public class Test2
 {
    public static void main(String[] args) 
    {
-	  String name="AKSHAY";
+	  String name="akshay";
 	  String name1="";
 	  System.out.println("Initial string1: "+name);
 	  
@@ -21,7 +21,7 @@ public class Test2
 		  System.out.println("Name having both upper and lower case.");
 	  }
 	  
-	  System.out.println("Initial string1 in lowercase: "+name.toLowerCase());
+	  System.out.println("Initial string1 in uppercase: "+name.toUpperCase());
 	  StringBuilder sb=new StringBuilder("AKSHAY P");
 	  System.out.println("Next String in reverse: "+sb.reverse());
 	  
